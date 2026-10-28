@@ -1,10 +1,8 @@
 # NTU EEE Master's Dissertation LaTeX Template (Updated: October 2026)
 
-[English](#english) | [简体中文](#chinese)
+> A LaTeX template for the NTU School of Electrical and Electronic Engineering (EEE) Master's Dissertation.
 
 ---
-
-<div id="chinese"></div>
 
 ## 🇨🇳 中文说明
 
@@ -15,7 +13,7 @@
 ### 📌 更新说明 (Changelog)
 * 同步更新至 **2026年10月** 的最新学院格式要求。
 * 修复了旧版本中的若干编译警告（Warnings）和报错（Errors）。
-* 调整了 [具体某些部分，如：封面、目录、参考文献格式等] 以符合最新审核标准。
+* 调整了具体内容（如：封面、目录、参考文献格式等）以符合最新审核标准。
 
 ### 🚀 如何使用
 1. 点击右上角 `Code` -> `Download ZIP` 下载，或直接克隆本仓库。
@@ -24,7 +22,7 @@
 4. 编译生成 PDF 即可。
 
 ### 🛠️ 反馈与支持 (Feedback & Issues)
-* **遇到问题？** 如果你在编译或使用过程中遇到报错，或者发现有遗漏的格式要求，欢迎在 GitHub 上提交 [Issue](../../issues)（请尽量附上报错截图或日志）。
+* **遇到问题？** 如果你在编译或使用过程中遇到报错，或者发现有遗漏的格式要求，欢迎在 GitHub 上提交 Issue（请尽量附上报错截图或日志）。
 * *注：由于作者精力有限，不保证能及时回复所有 Issue，建议先在 Issues 区搜索是否有相似问题，或自行查阅 LaTeX 相关文档。*
 
 ### ⚠️ 声明与免责 (Disclaimer)
@@ -40,8 +38,6 @@
 
 ---
 
-<div id="english"></div>
-
 ## 🇬🇧 English Description
 
 A LaTeX template for the NTU School of Electrical and Electronic Engineering (EEE) **Master's Dissertation**.
@@ -51,7 +47,7 @@ This template is updated and maintained based on previous students' versions. **
 ### 📌 Changelog
 * Synchronized with the latest NTU EEE dissertation guidelines (**as of October 2026**).
 * Fixed various compilation warnings and errors from previous versions.
-* Adjusted [specific parts, e.g., cover page, TOC, bibliography format] to meet the latest format check standards.
+* Adjusted specific parts (e.g., cover page, TOC, bibliography format) to meet the latest format check standards.
 
 ### 🚀 How to Use
 1. Click `Code` -> `Download ZIP`, or clone this repository.
@@ -60,12 +56,12 @@ This template is updated and maintained based on previous students' versions. **
 4. Compile to generate the PDF.
 
 ### 🛠️ Feedback & Issues
-* **Encountering problems?** If you get compilation errors or notice missing format requirements, feel free to open an [Issue](../../issues) (please include error screenshots or logs if possible).
+* **Encountering problems?** If you get compilation errors or notice missing format requirements, feel free to open an Issue (please include error screenshots or logs if possible).
 * *Note: As the author has limited time, timely replies are not guaranteed. Please search existing Issues for similar problems first.*
 
 ### ⚠️ Disclaimer
 1. **Acknowledgements**: This template is not built from scratch but is updated based on previous students' templates. Thanks to their open-source contributions.
-2. **Passing the check ≠ universally applicable**: Although this template passed the 2026 format check, **the school's specific format requirements may change at any time**.
+2. **Passing the check != universally applicable**: Although this template passed the 2026 format check, **the school's specific format requirements may change at any time**.
 3. **Use at your own risk**: Before submission, always double-check the latest official NTU EEE Dissertation Guidelines. The author assumes **no responsibility or liability** for any format rejections, graduation delays, or academic issues resulting from the use of this template.
 
 > **Use at your own risk. The author is not responsible for any consequences resulting from the use of this template.**
