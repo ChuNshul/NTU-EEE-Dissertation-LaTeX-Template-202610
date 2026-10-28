@@ -1,4 +1,4 @@
-# NTU EEE Dissertation LaTeX Template (Updated: October 2026)
+# NTU EEE Master's Dissertation LaTeX Template (Updated: October 2026)
 
 [English](#english) | [简体中文](#chinese)
 
@@ -8,9 +8,9 @@
 
 ## 🇨🇳 中文说明
 
-这是一个用于南洋理工大学（NTU）电子与电气工程学院（EEE）学位论文的 LaTeX 模板。
+这是一个用于南洋理工大学（NTU）电子与电气工程学院（EEE）**硕士学位论文（Master's Dissertation）**的 LaTeX 模板。
 
-本模板基于前几届同学已有的版本进行了更新和维护，**并已由作者本人成功使用该模板通过了 NTU EEE 学院 2026 年秋季学期的官方格式审核**。特此开源，希望能帮助后续的同学减轻排版负担。
+本模板基于前几届同学已有的版本进行了更新和维护，**并已由作者本人成功使用该模板通过了 NTU EEE 学院 2026 年秋季学期的官方格式审核**。特此开源分享，希望能帮助后续的硕士同学减轻排版负担。
 
 ### 📌 更新说明 (Changelog)
 * 同步更新至 **2026年10月** 的最新学院格式要求。
@@ -33,6 +33,7 @@
 3. **责任自负**：请在使用前，务必自行核对最新的 NTU EEE Dissertation Guidelines（以学院官方发布的最新文件为准）。因使用本模板导致的任何格式退回、延期毕业或学术问题，**作者不承担任何连带责任**。
 
 > **Use at your own risk. The author is not responsible for any consequences resulting from the use of this template.**
+> *(注：本模板仅供个人学术排版参考，未采用开源许可协议，作者保留所有权利。)*
 
 ### ⭐ 支持作者 (Show your support)
 如果这个模板帮你节省了宝贵的时间，或者你觉得这个项目对你有帮助，**欢迎点亮右上角的 Star ⭐！** 你的支持是我持续维护的最大动力。祝大家论文顺利，早日毕业！🎓
@@ -43,9 +44,9 @@
 
 ## 🇬🇧 English Description
 
-A LaTeX template for the NTU School of Electrical and Electronic Engineering (EEE) dissertation.
+A LaTeX template for the NTU School of Electrical and Electronic Engineering (EEE) **Master's Dissertation**.
 
-This template is updated and maintained based on previous students' versions. **It has been successfully used by the author to pass the official NTU EEE format check for the Fall 2026 semester.** It is open-sourced here to help future students save time on formatting.
+This template is updated and maintained based on previous students' versions. **It has been successfully used by the author to pass the official NTU EEE format check for the Fall 2026 semester.** It is shared here to help future Master's students save time on formatting.
 
 ### 📌 Changelog
 * Synchronized with the latest NTU EEE dissertation guidelines (**as of October 2026**).
@@ -68,11 +69,4 @@ This template is updated and maintained based on previous students' versions. **
 3. **Use at your own risk**: Before submission, always double-check the latest official NTU EEE Dissertation Guidelines. The author assumes **no responsibility or liability** for any format rejections, graduation delays, or academic issues resulting from the use of this template.
 
 > **Use at your own risk. The author is not responsible for any consequences resulting from the use of this template.**
-
-### ⭐ Show Your Support
-If this template saved you valuable time or you find this project helpful, **please give it a Star ⭐!** Your support is my greatest motivation to keep maintaining it. Good luck with your thesis and graduation! 🎓
-
----
-
-## 📄 License
-This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) (or [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)). For academic exchange and formatting reference only.
+> *(Note: This template is provided for personal academic formatting reference only. No open-source license is applied; all rights reserved by the author.)*
